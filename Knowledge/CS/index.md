@@ -1,6 +1,6 @@
 ---
 title: CS
-parent: Knowledge Hub
+parent: Knowledge
 layout: home
 nav_order: 2
 ---
