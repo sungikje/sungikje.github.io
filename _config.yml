@@ -8,5 +8,13 @@ baseurl: ""
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-QQ9FJ0Z77W"
+    anonymize_ip         : # true, false (default)
+
 plugins:
   - jekyll-sitemap
