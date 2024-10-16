@@ -2,7 +2,7 @@
 title: v-for, In-Place Patch
 parent: Web
 layout: home
-nav_order: 6
+nav_order: 7
 ---
 ## Table of contents
 {: .no_toc .text-delta }

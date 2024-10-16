@@ -2,7 +2,7 @@
 title: Promise in JS
 parent: Web
 layout: home
-nav_order: 6
+nav_order: 5
 ---
 ## Table of contents
 {: .no_toc .text-delta }

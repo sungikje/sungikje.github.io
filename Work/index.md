@@ -1,5 +1,5 @@
 ---
-title: PJ
+title: Work
 layout: home
 ---
 
